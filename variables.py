@@ -13,10 +13,10 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
-x = 1       # int
-y = 2.5     # float
-name ='John'# str
-is_cool = True # bool
+x = 1           # int
+y = 2.5         # float
+name ='John'    # str
+is_cool = True  # bool
 
 # Multiple assignment
 x, y, name, is_cool = (1,2.5, 'John', True)
