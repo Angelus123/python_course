@@ -30,8 +30,7 @@ del(person2['age'])
 person.pop('phone')
 # clear
 person.clear() 
-print(person)
-# Get length
+print(person)                                                                                                                                                                      
 
 # list of dict
 people = [
